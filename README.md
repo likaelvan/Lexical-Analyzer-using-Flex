@@ -1,3 +1,6 @@
+CS 155  Problem Set 2 Lexical Analyzer using Flex
+by Gorge Lichael Vann N. Vedasto
+
 ## Running the Lexical Analyzer
 ```
 flex [name].lex
